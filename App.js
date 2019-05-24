@@ -195,5 +195,11 @@ const styles = StyleSheet.create({
 		alignItems: "stretch",
 		justifyContent: "space-around",
 		backgroundColor: "#636363"
+	},
+	new_operations: {
+		flex: 1,
+		alignItems: "stretch",
+		justifyContent: "space-around",
+		backgroundColor: "#636363"
 	}
 });
