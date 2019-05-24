@@ -195,5 +195,9 @@ const styles = StyleSheet.create({
 		alignItems: "stretch",
 		justifyContent: "space-around",
 		backgroundColor: "#636363"
+	},
+	neww_numbers: {
+		flex: 3,
+		backgroundColor: "#434343"
 	}
 });
