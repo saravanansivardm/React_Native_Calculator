@@ -195,11 +195,14 @@ const styles = StyleSheet.create({
 		alignItems: "stretch",
 		justifyContent: "space-around",
 		backgroundColor: "#636363"
+<<<<<<< HEAD
 	},
 	new_operations: {
 		flex: 1,
 		alignItems: "stretch",
 		justifyContent: "space-around",
 		backgroundColor: "#636363"
+=======
+>>>>>>> 3ab9e60df2dd12e2725753b366ddb673e951238c
 	}
 });
